@@ -34,7 +34,7 @@ Therefore, Bithority practically act as a Bitcoin hashrate rental service that b
 
 ![Readme/Bithority_158.jpg](Readme/Bithority_158.jpg)
 
-https://github.com/labs3/bithority/blob/main/Drawings/Bithority_158.jpg
+
 
 As such, any miner around the world, no matter where, that has enough facilities to plug in a mining farm can then connect it to Bithority protocol and rent his hashrate. No need of any reputation or credential, KYC, bureacracy, jurisdictional compliance and no need of nothing except pluging his farm into Bithority! 
 On the other side, any-scale investors (from very small to very big ones), can join the Bithority platform to select their favorite miner and appropriate hashrate to invest their preferred amount to participate in Bitcoin mining anywhere in the world!
@@ -48,7 +48,6 @@ Their selling hashrate amount and on the other side we have investors that pay B
 
 ![Readme/IMG-20210323-WA0000.jpg](Readme/IMG-20210323-WA0000.jpg)
 
-https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
 
 Dgshhdhdhhdh...... 
 ![Readme/animation(1).gif](Readme/animation(1).gif) 
