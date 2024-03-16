@@ -32,7 +32,7 @@ In this regard, the Bithority idea was emerged to topple this very concern.
 Bithority uses smart contracts on the Stacks blockchain to raise funds for mining operations from investors. New miners can raise capital for buying ASICs and developing their operation, while investors get a share of the hash power that the miners create.
 Therefore, Bithority practically act as a Bitcoin hashrate rental service that benefits both miners and investors by sharing in the Bitcoin mining economy and and a share of its profitability cake! 
 
-![Drawings/Bithority_158.jpg](Drawings/Bithority_158.jpg)
+![Readme/Bithority_158.jpg](Readme/Bithority_158.jpg)
 
 https://github.com/labs3/bithority/blob/main/Drawings/Bithority_158.jpg
 
@@ -46,12 +46,12 @@ Since Bithority is a trustless autonomous protocol then it needs to automaticall
 Their selling hashrate amount and on the other side we have investors that pay Btc for their requested renting hashrate. Therefore, after the execution of the deal between a spotted miner and invetsor, the miner is committed to pay the mining reward (accossiated with defined user) into the Bithority reward pool in a specified time (that is already set in the sale market upon agreement). 
 
 
-![Drawings/IMG-20210323-WA0000.jpg](Drawings/IMG-20210323-WA0000.jpg)
+![Readme/IMG-20210323-WA0000.jpg](Readme/IMG-20210323-WA0000.jpg)
 
 https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
 
 Dgshhdhdhhdh...... 
-![Drawings/animation(1).gif](Drawings/animation(1).gif) 
+![Readme/animation(1).gif](Readme/animation(1).gif) 
 
 ## Potential Market and Users
 
